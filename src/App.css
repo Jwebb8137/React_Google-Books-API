@@ -1,0 +1,33 @@
+/* font-family: 'Bree Serif', serif;
+font-family: 'Montserrat', sans-serif; */
+
+body {
+  background: #fce8c1;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  text-align: center;
+}
+
+.container__heading {
+  background: #3a1c0cd6;
+}
+
+.main__heading {
+  color: #fff; 
+  font-size: 3em;
+  margin: 0;
+  padding: 25px;
+}
+
+.search__box {
+  padding: 25px;
+}
+
+h1, h2, h3 {
+  font-family: 'Bree Serif', serif;
+}
+
+h2, h3 {
+  color: #3a1c0c;
+  max-width: 400px;
+}

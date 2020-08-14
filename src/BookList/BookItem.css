@@ -1,0 +1,35 @@
+.bookItem__container {
+    background: #deb887;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #5a3c29;
+    margin: auto;
+    max-width: 400px;
+    padding: 0;
+}
+
+.bookItem__container h3{
+    font-size: 2em;
+    margin: 1em auto .5em;
+    padding: .75em .5em 0;
+}
+
+.bookItem__container img {
+    border-radius: 10px;
+    width: 60%;
+}
+
+.bookItem__container p {
+    font-size: 1.1em;
+    margin-bottom: 3em;
+    padding-bottom: 2.5em;
+}
+
+#book__description {
+    background: #5a3c29;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.1em;
+    max-height: 191px;
+    overflow: hidden;
+    padding: 25px;
+}
